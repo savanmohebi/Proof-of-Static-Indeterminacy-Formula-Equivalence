@@ -33,4 +33,3 @@ The goal of this notebook is to provide a rigorous mathematical proof that the d
 
 **Savan Mohebi**  
 Civil Engineering Student | AI Enthusiast  
-:contentReference[oaicite:1]{index=1}
